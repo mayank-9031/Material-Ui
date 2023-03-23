@@ -14,7 +14,7 @@ const CheckBoxM = () => {
 
   return (
     <div>
-      <h1>React Material UI | CheckBox</h1>
+      <h2>Material UI | CheckBox</h2>
       <Checkbox color="primary" value="anil" onChange={(e) => getValue(e)} />
       <Checkbox color="primary" value="sam" onChange={(e) => getValue(e)} />
       <Checkbox color="primary" value="peter" onChange={(e) => getValue(e)} />

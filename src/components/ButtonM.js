@@ -12,6 +12,7 @@ const ButtonM = () => {
 
   return (
     <div>
+      <h2>Material UI | Button</h2>
       <Button
         color={colour}
         variant="contained"
